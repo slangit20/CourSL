@@ -1,27 +1,34 @@
-theCourses = [
+[
     {
-        "name": "Intro Remote Sensing"
-        "hasSyl": "Yes"
-        "type": "Lecture"
-        "hasTut": "No"
-        "selfLearn": "No"
+        "name": "Intro Remote Sensing",
+        "type": "Lecture",
+        "CoursProps": {
+            "hasSyllabus": "Yes"
+            "hasTutorial": "No"
+            "selfLearn": "No"
+        }
+
     }, 
     
     {
-        "name": "Practical Remote Sensing"
-        "hasSyl": "Yes"
-        "type": "Exercise course"
-        "hasTut": "Yes"
-        "selfLearn": "No"
-    }
+        "name": "Practical Remote Sensing",        
+        "type": "Excercise",
+        "CoursProps": {
+            "hasSyllabus": "Yes"
+            "hasTutor": "Yes"
+            "selfLearn": "No"
+        }
+    },
 
     {
-        "name": "OBIA Online"
-        "hasSyl": "Yes"
-        "type": "Exercise course"
-        "hasTut": "No"
-        "selfLearn": "Yes"
-    }
+        "name": "OBIA Online",        
+        "type": "Excercise",
+        "CoursProps": {
+            "hasSyllabus": "Yes"
+            "hasTutor": "No"
+            "selfLearn": "Yes"
+        }
+    },
 ]
 
 
