@@ -2,9 +2,9 @@
     {
         "name": "Intro Remote Sensing",
         "type": "Lecture",
-        "CoursProps": {
-            "Syllabus": ["01 May", "08 May"],
-            "Tutorial": ["n/a"]
+        "coursProps": {
+            "syllabus": ["01 May", "08 May"],
+            "tutorial": ["n/a"]
         }
 
     }, 
@@ -12,18 +12,18 @@
     {
         "name": "Practical Remote Sensing",        
         "type": "Excercise",
-        "CoursProps": {
-            "Syllabus": ["15 May", "22 May"],
-            "Tutorial": ["29 May"]
+        "coursProps": {
+            "syllabus": ["08 May", "22 May", "29 May"],
+            "tutorial": ["15 May"]
         }
     },
 
     {
         "name": "OBIA Online",        
         "type": "Excercise",
-        "CoursProps": {
-            "Syllabus": ["03 May", "10 May"],
-            "Tutorial": ["n/a"]
+        "coursProps": {
+            "syllabus": ["03 May", "10 May"],
+            "tutorial": ["n/a"]
         }
     }
 ]
