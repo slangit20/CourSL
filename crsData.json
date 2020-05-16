@@ -3,9 +3,8 @@
         "name": "Intro Remote Sensing",
         "type": "Lecture",
         "CoursProps": {
-            "hasSyllabus": "Yes"
-            "hasTutorial": "No"
-            "selfLearn": "No"
+            "Syllabus": ["01 May", "08 May"],
+            "Tutorial": ["n/a"]
         }
 
     }, 
@@ -14,9 +13,8 @@
         "name": "Practical Remote Sensing",        
         "type": "Excercise",
         "CoursProps": {
-            "hasSyllabus": "Yes"
-            "hasTutor": "Yes"
-            "selfLearn": "No"
+            "Syllabus": ["15 May", "22 May"],
+            "Tutorial": ["29 May"]
         }
     },
 
@@ -24,9 +22,8 @@
         "name": "OBIA Online",        
         "type": "Excercise",
         "CoursProps": {
-            "hasSyllabus": "Yes"
-            "hasTutor": "No"
-            "selfLearn": "Yes"
+            "Syllabus": ["03 May", "10 May"],
+            "Tutorial": ["n/a"]
         }
     }
 ]
