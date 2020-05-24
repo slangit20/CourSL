@@ -32,10 +32,63 @@
         "uID": "4",
         "unitElem": {
             "lesson": ["Sensors and metadata", "Image handling", "Band combinations"],
-            "date": ["01 Apr", "22 Apr", "22 Apr"]
+            "date": ["01 Apr", "01 Apr", "01 Apr"]
         }
     }
 
+    {
+        "unit": "Spatial referencing",        
+        "uID": "5",
+        "unitElem": {
+            "lesson": ["Spatial vs. geometric correction", "GCP collection and referencing"],
+            "date": ["22 Apr", "22 Apr"]
+        }
+    }
+
+    {
+        "unit": "Radiometric correction",        
+        "uID": "6",
+        "unitElem": {
+            "lesson": ["Radiometric measurement", "Atmospheric correction", "Topographic correction"],
+            "date": ["06 May", "06 May", "n/a"]
+        }
+    }
+
+    {
+        "unit": "Image pre-processing",        
+        "uID": "7",
+        "unitElem": {
+            "lesson": ["Band maths", "Filtering", "Image fusion & PCA"],
+            "date": ["20 May", "20 May", "20 May"]
+        }
+    }
+
+    {
+        "unit": "Image classification",        
+        "uID": "8",
+        "unitElem": {
+            "lesson": ["Multi-spectral classification", "Supervised classification"],
+            "date": ["10 Jun", "10 Jun"]
+        }
+    }
+
+    {
+        "unit": "Validation",        
+        "uID": "9",
+        "unitElem": {
+            "lesson": ["Ground reference and accuracy assessment", "Product validation"],
+            "date": ["17 Jun", "24 Jun"]
+        }
+    }
+
+    {
+        "unit": "Communication",        
+        "uID": "10",
+        "unitElem": {
+            "lesson": ["Geodata integration", "Map making"],
+            "date": ["24 Jun", "24 Jun"]
+        }
+    }
 
 
 ]
