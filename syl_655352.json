@@ -34,7 +34,7 @@
             "lesson": ["Sensors and metadata", "Image handling", "Band combinations"],
             "date": ["01 Apr", "01 Apr", "01 Apr"]
         }
-    }
+    },
 
     {
         "unit": "Spatial referencing",        
@@ -43,7 +43,7 @@
             "lesson": ["Spatial vs. geometric correction", "GCP collection and referencing"],
             "date": ["22 Apr", "22 Apr"]
         }
-    }
+    },
 
     {
         "unit": "Radiometric correction",        
@@ -52,7 +52,7 @@
             "lesson": ["Radiometric measurement", "Atmospheric correction", "Topographic correction"],
             "date": ["06 May", "06 May", "n/a"]
         }
-    }
+    },
 
     {
         "unit": "Image pre-processing",        
@@ -61,7 +61,7 @@
             "lesson": ["Band maths", "Filtering", "Image fusion & PCA"],
             "date": ["20 May", "20 May", "20 May"]
         }
-    }
+    },
 
     {
         "unit": "Image classification",        
@@ -70,7 +70,7 @@
             "lesson": ["Multi-spectral classification", "Supervised classification"],
             "date": ["10 Jun", "10 Jun"]
         }
-    }
+    },
 
     {
         "unit": "Validation",        
@@ -79,7 +79,7 @@
             "lesson": ["Ground reference and accuracy assessment", "Product validation"],
             "date": ["17 Jun", "24 Jun"]
         }
-    }
+    },
 
     {
         "unit": "Communication",        
