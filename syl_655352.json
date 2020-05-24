@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Analysis & Modelling (Remote Sensing)",
+        "type": "Seminar",
+        "coursProps": {
+            "syllabus": ["01 May", "08 May"],
+            "tutorial": ["n/a"]
+        }
+
+    }, 
+    
+    {
+        "name": "Practical Remote Sensing",        
+        "type": "Excercise",
+        "coursProps": {
+            "syllabus": ["11 Mar", "18 Mar", "29 May"],
+            "tutorial": ["15 May"]
+        }
+    },
+
+    {
+        "name": "OBIA Online",        
+        "type": "Excercise",
+        "coursProps": {
+            "syllabus": ["03 May", "10 May"],
+            "tutorial": ["n/a"]
+        }
+    }
+]
+
+
