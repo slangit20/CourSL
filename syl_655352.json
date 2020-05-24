@@ -1,7 +1,7 @@
 [
     {
         "unit": "Organisational issues and introduction",
-        "U-ID": "1",
+        "uID": "1",
         "lessons": {
             "lesson": ["Course overview and structure", "Earth observation in practice"],
             "date": ["11 Mar", "11 Mar"]
@@ -11,7 +11,7 @@
     
     {
         "unit": "Image repositories and data access",        
-        "U-ID": "2",
+        "uID": "2",
         "unitElem": {
             "lesson": ["Space and ground infrastructure", "Data & information access"],
             "date": ["18 Mar", "18 Apr"]
@@ -20,7 +20,7 @@
 
     {
         "unit": "Specifics of image data",        
-        "U-ID": "3",
+        "uID": "3",
         "unitElem": {
             "lesson": ["Image data model", "Histograms"],
             "date": ["01 Apr", "01 Apr"]
@@ -29,7 +29,7 @@
 
     {
         "unit": "Visualising and exploring image data",        
-        "U-ID": "4",
+        "uID": "4",
         "unitElem": {
             "lesson": ["Sensors and metadata", "Image handling", "Band combinations"],
             "date": ["01 Apr", "22 Apr", "22 Apr"]
