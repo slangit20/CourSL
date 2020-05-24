@@ -1,7 +1,7 @@
 [
     {
-        "name": "Intro Remote Sensing",
-        "type": "Lecture",
+        "name": "Analysis & Modelling (Remote Sensing)",
+        "type": "Seminar",
         "coursProps": {
             "syllabus": ["01 May", "08 May"],
             "tutorial": ["n/a"]
@@ -13,7 +13,7 @@
         "name": "Practical Remote Sensing",        
         "type": "Excercise",
         "coursProps": {
-            "syllabus": ["08 May", "22 May", "29 May"],
+            "syllabus": ["11 Mar", "18 Mar", "29 May"],
             "tutorial": ["15 May"]
         }
     },
