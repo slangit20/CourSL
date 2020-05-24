@@ -2,7 +2,7 @@
     {
         "unit": "Organisational issues and introduction",
         "uID": "1",
-        "lessons": {
+        "unitElem": {
             "lesson": ["Course overview and structure", "Earth observation in practice"],
             "date": ["11 Mar", "11 Mar"]
         }
