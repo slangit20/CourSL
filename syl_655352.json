@@ -1,31 +1,43 @@
 [
     {
-        "name": "Analysis & Modelling (Remote Sensing)",
-        "type": "Seminar",
-        "coursProps": {
-            "syllabus": ["02 May", "08 May"],
-            "tutorial": ["n/a"]
+        "unit": "Organisational issues and introduction",
+        "U-ID": "1",
+        "lessons": {
+            "lesson": ["Course overview and structure", "Earth observation in practice"],
+            "date": ["11 Mar", "11 Mar"]
         }
 
     }, 
     
     {
-        "name": "Practical Remote Sensing",        
-        "type": "Excercise",
-        "coursProps": {
-            "syllabus": ["11 Mar", "18 Mar", "29 May"],
-            "tutorial": ["15 May"]
+        "unit": "Image repositories and data access",        
+        "U-ID": "2",
+        "unitElem": {
+            "lesson": ["Space and ground infrastructure", "Data & information access"],
+            "date": ["18 Mar", "18 Apr"]
         }
     },
 
     {
-        "name": "OBIA Online",        
-        "type": "Excercise",
-        "coursProps": {
-            "syllabus": ["03 May", "10 May"],
-            "tutorial": ["n/a"]
+        "unit": "Specifics of image data",        
+        "U-ID": "3",
+        "unitElem": {
+            "lesson": ["Image data model", "Histograms"],
+            "date": ["01 Apr", "01 Apr"]
+        }
+    },
+
+    {
+        "unit": "Visualising and exploring image data",        
+        "U-ID": "4",
+        "unitElem": {
+            "lesson": ["Sensors and metadata", "Image handling", "Band combinations"],
+            "date": ["01 Apr", "22 Apr", "22 Apr"]
         }
     }
+
+
+
 ]
 
 
