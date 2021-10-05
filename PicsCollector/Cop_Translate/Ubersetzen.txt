@@ -1,0 +1,11 @@
+Chrome: 
+
+- falls Übersetzungsfenster (rechts oben) nicht vorhanden, auf beliebige Textstelle klicken. 
+- offline: nur gewisse Sequenz an Seiten wird übersetzt (?)
+- nur Inhalt in <p> wird übersetzt? 
+
+check Metadaten
+
+
+
+
